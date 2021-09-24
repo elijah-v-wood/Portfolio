@@ -99,3 +99,9 @@ a:hover
 {
     list-style: none;
 }
+.foot
+{
+    width: 100%;
+    background-color: black;
+    height: 25px;
+}
