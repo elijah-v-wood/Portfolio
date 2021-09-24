@@ -1,6 +1,15 @@
 body {background-color: rgb(47, 45, 66);}
 p, li {color: antiquewhite;}
-h1,h2,h3,h4,h5,h6{color: rgb(129, 120, 108);}
+h1,h2,h3,h4,h5,h6
+{
+    color: rgb(129, 120, 108);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a:hover
+{
+    text-decoration: none;
+    opacity: 45%;
+}
 /* Head */
 .head 
 {
@@ -49,6 +58,7 @@ h1,h2,h3,h4,h5,h6{color: rgb(129, 120, 108);}
     text-align: right;
     margin-right: 5px;
     font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #nav a 
 {
