@@ -10,6 +10,15 @@ a:hover
     text-decoration: none;
     opacity: 45%;
 }
+.project-line{
+    text-align: center;
+    padding-right: 5rem;
+}
+.project-card{
+    margin-left: .1rem;
+    margin-right: .5rem;
+    float: right;
+}
 /* Head */
 .head 
 {
@@ -70,8 +79,11 @@ a:hover
 }
 .contact
 {
+    margin-top: 3rem;
     margin-left: 100px;
+    text-align: center;
 }
+
 .projects
 {
     margin-left: 100px;
